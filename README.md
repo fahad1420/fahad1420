@@ -1,3 +1,8 @@
+<p align="center">
+  <img src="banner.png" width="100%" alt="Fahad Banner">
+</p>
+
+<br>
 <h1 align="center">Hi 👋, I'm Fahad Hossain</h1>
 
 
